@@ -1,0 +1,2 @@
+* * * * * echo 1 > /ruta/gpio17.txt
+*/2 * * * * echo 0 > /ruta/gpio17.txt
